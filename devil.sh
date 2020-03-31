@@ -1,18 +1,18 @@
 #!bin/bash
-#gem install lolcat
-#akg install figlet
-#apt update
-#apt upgrade
-#termux-setup-storage
-#cd
-#cd /sdcard
-#mkdir DEVIL
-#cd
-#cd /sdcard/DEVIL/
-#mkdir OUTPUT
-#cd
-#cd /sdcard/DEVIL
-#cp -r script /sdcard/DEVIL/
+gem install lolcat
+akg install figlet
+apt update
+apt upgrade
+termux-setup-storage
+cd
+cd /sdcard
+mkdir DEVIL
+cd
+cd /sdcard/DEVIL/
+mkdir OUTPUT
+cd
+cd /sdcard/DEVIL
+cp -r script /sdcard/DEVIL/
 clear
  echo "  ___________            "
  echo -e "\e[1;32m < ts-devil > \e[0m "
